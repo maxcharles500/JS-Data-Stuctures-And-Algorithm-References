@@ -1,0 +1,71 @@
+//Algorithm: A process or set of of steps to solve a certain problem or complete a task
+
+//How to Improve solving problems and writing algorithms:
+    //1. Devise a plan for solving problems 
+    //2. Master common problem solving patterns
+
+    //Understand the Problem
+        //1. Can you restate it In your own words?
+        //2. What are the inputs going into the problem
+        //3. What are the outputs that should come from the solution?
+        //4. Can the outputs be determined by the inputs?/Do you have enough information to solve the problem?
+        //5. How should I label the important information given about the problem?
+
+    //Explore Concrete Examples
+        // Examples can help you understand the problem better
+        //Examples also provide sanity checks that your eventual solution works how it should
+            //steps
+                //1. Start with simple examples
+                //2. Progress to more complex examples
+                //3. Explore edge cases (empty inputs, invalid inputs)
+
+    //Break it Down
+        //Write out the exact steps to solve the problem
+            //Write out simple, digestable notes instead of exact syntax or even pseudo code 
+            //Helps you catch misunderstandings about the question before you start writig code
+            //Gets you thinking about the question conceptually 
+
+    //Solve or Symplify
+        //Solve the Problem... if you can't solve a simpler problem
+            //if you know where to start... START 
+            //focus on what you understand first
+            //ignore what is giving you trouble and come back to it
+        //Simplify
+            //find the core difficulty of the problem/identify the part that is confusing you
+            //Temporarily ignore that difficulty/ remove that part from the problem for now
+            //Write a simplified solution/ Solve the problem while ignoring that core difficulty
+            //Add that difficulty back in and adjust your simplified solution to accommodate that difficulty and fully solve the problem 
+
+    //Look Back and Refactor
+        //Refactoring questions
+            //Can you check the result?
+                //does it work? is the return value the desired output?
+            //Can you solve it differently?
+                //What other approches could you take? Can you improve the BigO? can you use less lines, or different methods? How can you get the same answer with different code?
+            //Can you understand it at a glance?
+                //Do you understand the code line by line? Do you understand what you were thinking when you decided to write each line? Do you know why you wrote what you did? How inuitive is it, and how easy is it for other people to understand?
+            //Can you use this result or method for another problem?
+                //Does this solution carry over to anything else you've encountered?
+                //Is this solution relavent to other projects you're working on?
+            //Can you improve the performance of your Solution? 
+                //What is the time complexity of your solution? Can you reduce the time it will take?
+                //what is the space complexity of your solution? Can you reduce the amount of space/memory it requires?
+                //WHat other ways can you optimize your solution to run, look, feel, or perform better
+            //Can you think of any other ways to refactor your code?
+                //Does your company have style guides, or best practices you need to follow?
+                //Do you have preferences on how you want your code to look? 
+                //Are you writing this code the same way the code in the rest of your project is written? 
+                //single or doble quotes? Function declarations or arrow functions? etc... 
+            //Have other people solved this problem before?
+                //Most efficient ways?
+                //Least efficient ways/
+                //Most eccentric, extreme, roundabout, brute force ways
+                //same problem dif language?
+
+
+//Recap 
+    //1. Understand the Problem
+    //2. Explore Concrete Examples
+    //3. Break it Down
+    //4. Solve or Symplify
+    //5. Look Back and Refactor
