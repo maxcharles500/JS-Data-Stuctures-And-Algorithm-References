@@ -1,4 +1,4 @@
-//Algorithm: A process or set of of steps to solve a certain problem or complete a task
+//Algorithm: A process or set of steps to solve a certain problem or complete a task
 
 //How to Improve solving problems and writing algorithms:
     //1. Devise a plan for solving problems 
@@ -22,11 +22,12 @@
     //Break it Down
         //Write out the exact steps to solve the problem
             //Write out simple, digestable notes instead of exact syntax or even pseudo code 
+            //You can wite pseudo code and potential syntax but focus on what you want to accomplish
             //Helps you catch misunderstandings about the question before you start writig code
             //Gets you thinking about the question conceptually 
 
     //Solve or Symplify
-        //Solve the Problem... if you can't solve a simpler problem
+        //Solve the Problem... if you can't, solve a simpler problem
             //if you know where to start... START 
             //focus on what you understand first
             //ignore what is giving you trouble and come back to it
