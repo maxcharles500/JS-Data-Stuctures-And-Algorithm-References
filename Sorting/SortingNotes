@@ -1,0 +1,19 @@
+//Sorting:
+//The process of rearranging the items in a collection(array,object,etc...) so that the items are in some kind of order(highest to lowest, alhabetical, etc...)
+
+//Importance
+//Sorting is an incredibly common task so its goof to know how it works(even if youre using built in methods)
+//There are many ways to sort collections of data, and each technique has its own advantages and disadvantages
+//Classic interview topic
+
+//Elementary Sorting algos
+//bubble sort
+//selection sort
+//insertion sort
+
+//Built in JS sort
+//The default sort() method sorts the elements of an array in place and returns the reference to the same array, now sorted. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
+//sort() accepts an optional comparator function 
+//you can use this comparator function to specify how you want your data sorted
+//https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344136#questions
+

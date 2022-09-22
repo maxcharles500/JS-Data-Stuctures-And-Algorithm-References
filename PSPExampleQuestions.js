@@ -118,3 +118,20 @@ return maxSum;
 
 }
 
+// Write a function called minSubArrayLen which accepts two parameters - an array of positive integers and a positive integer.
+// This function should return the minimal length of a contiguous subarray of which the sum is greater than or equal to the integer passed to the function. If there isn't one, return 0 instead.
+
+//I: array of positive integers and 1 positive integer 
+//O: num reperesenting the length of the shortest subarray which is equal to or greater than the integer passed in
+//C:if there is no subarray return 0, Time Complexity - O(n), Space Complexity - O(1)
+
+const minSubArrayLen = (arr, num) => {
+    let left = 0;
+    let minLen = Infinity;
+    let tempLen = 0;
+    
+    
+    
+}
+
+//[1,2,3,4,5,6], 10 => 2
