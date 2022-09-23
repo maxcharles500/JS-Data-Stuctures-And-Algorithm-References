@@ -6,7 +6,7 @@
 //There are many ways to sort collections of data, and each technique has its own advantages and disadvantages
 //Classic interview topic
 
-//Elementary Sorting algos
+//Elementary Sorting algos (all of these on average are O(n^2) or quadratic time)
 //bubble sort
 //selection sort
 //insertion sort
@@ -17,3 +17,7 @@
 //you can use this comparator function to specify how you want your data sorted
 //https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/8344136#questions
 
+//Faster/More Advanced Sorting Algos (improve time complexity from O(n^2) with the elementary sorting algoriths to O(n log n))
+//Merge sort
+//Quick sort
+//Radix Sort

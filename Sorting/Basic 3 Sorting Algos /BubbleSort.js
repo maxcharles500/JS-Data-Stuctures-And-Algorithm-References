@@ -3,7 +3,7 @@
 //https://visualgo.net/en/sorting
 
 const bubbleSort = (arr) => {
-    //initialize 'swaps' as true this is a variable to determine wether weve swapped ny numbers in the array
+    //initialize 'swaps' as true this is a variable to determine wether weve swapped any numbers in the array
     let noSwaps ;
    //Loop starting at the end of the arr
     for(let i = arr.length - 1; i > 0; i--) {
@@ -32,4 +32,8 @@ const bubbleSort = (arr) => {
 console.log(bubbleSort([400,65,90,3,2,5,1,10,16,12,21,53,125]))
 
 //Big O
-//O(n^2)
+//Time 
+//Best Case: O(n)
+//Worst Case: O(n^2)
+//Avg: O(n^2)
+//Space Complexity - O(1)
