@@ -1,4 +1,4 @@
-//linked List
+//Singly linked List
 //A linked list is a data structure that contains a head(beginning), tail(end), and length property.
 //Linked Lists consist of nodes, and each node has a value and a pointer to another node or null
 //each node only has a pointer pointing to the next node
